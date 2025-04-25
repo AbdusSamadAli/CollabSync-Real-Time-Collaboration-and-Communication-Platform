@@ -28,7 +28,6 @@ MindWell is a modern and secure online health therapy platform designed to suppo
 
 ### ⚙️ Scalability & Performance
 - 🔄 Used **Redis** for:
-  - **Caching** chatbot responses
   - **Scaling real-time chat and sockets**
 - ⚡ Seamless performance even with multiple concurrent users
 
