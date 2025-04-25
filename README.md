@@ -39,9 +39,9 @@ MindWell is a modern and secure online health therapy platform designed to suppo
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS
+- **Frontend**: React.js, Tailwind CSS, Vanta.js and Motion Framer for UI
 - **Backend**: Node.js, Express.js
-- **Authentication**: Auth.js / JWT
+- **Authentication**: JWT
 - **Real-time Chat**: Socket.IO + Redis
 - **Video Calls**: WebRTC
 - **AI Integration**: Google Gemini API
