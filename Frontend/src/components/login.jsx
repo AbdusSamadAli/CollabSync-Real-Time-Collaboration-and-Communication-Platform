@@ -33,8 +33,6 @@ const Login = () => {
       localStorage.setItem("role", role);
 
       setMessage("Login successful!");
-
-      // Redirect logic
       const redirectPath = location.state?.from || (role === "doctor" ? "/doctordashboard" : "/patientdashboard");
       navigate(redirectPath);
     } catch (error) {
